@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @yousef-elgarch1
-- 👀 I’m interested in machine learning, deep learning, big data and smart systems
-- 🌱 I’m currently learning smart system engineering
-- 💞️ I’m looking to collaborate on machine learning and generative AI
-- 📫 How to reach me my email
-- 😄 Pronouns: josef
-- ⚡ Fun fact: i am an otaku hh
+# 👋 Hi, I’m **ELGARCH Youssef** 👨‍💻
 
+## 🧠 About Me:
+- **👋 Hi, I’m [ELGARCH Youssef](https://github.com/yousef-elgarch)**  
+- 👀 I’m a **Software Junior Engineer** working on **Development** and **Information Systems**  
+- 🌱 I’m passionate about **innovative solutions** that utilize **AI** and **Machine Learning**  
+- 🔧 I’m also interested in **DevOps operations** and **Cloud technologies**  
+- 💞️ I’m looking to collaborate on **AI, ML, and Cloud-based projects**  
+- 📫 Reach me via **[Email](mailto:youssefelgarch92@gmail.com)**.
+- 😄 Pronouns: **josef**
+- ⚡ Fun fact: I am an **otaku** who loves anime and manga. 🎥
 
+## 📊 GitHub Profile Views:
+[![Profile Views](https://komarev.com/ghpvc/?username=yousef-elgarch)](https://github.com/yousef-elgarch)
+
+---
 
 
 ## 🌐 Socials:
